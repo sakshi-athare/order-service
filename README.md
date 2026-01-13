@@ -55,6 +55,11 @@ This project demonstrates synchronous inter-service communication using
 5. Order is saved to the database
 
 ---
+## Related Repositories
+- Service Registry: https://github.com/sakshi-athare/service-registry
+- User Service: https://github.com/sakshi-athare/user-service
+- Product Service: https://github.com/sakshi-athare/product-service
+
 
 ## How to Run
 1. Start Eureka Server
